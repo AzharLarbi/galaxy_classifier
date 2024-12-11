@@ -1,1 +1,1 @@
-# galaxy_classifier
+# galaxy_image_classifier
